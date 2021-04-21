@@ -1,0 +1,42 @@
+    body
+    {
+        background-color:  #ffffff;
+    }
+
+    .Header
+    {
+        color:red;
+        border:solid;
+        display:flex;
+        justify-content:space-between;
+    }
+
+    .menu
+    {
+        color:blue;
+        border:solid
+
+    }
+    .grid
+    {
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .footer
+    {
+        display:flex;
+        justify-content: flex-end;
+    }
+    h2,p
+    {
+        text-align: center;
+    }
+    h1
+    {
+        margin-left:470px
+    }
+    *
+    {
+        border:solid
+    }
